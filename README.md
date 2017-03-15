@@ -1,2 +1,2 @@
 # hello-world
-Starter Repository
+This is a beginner repository.
